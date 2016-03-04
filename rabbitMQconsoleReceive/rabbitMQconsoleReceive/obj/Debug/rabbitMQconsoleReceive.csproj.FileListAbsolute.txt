@@ -1,0 +1,22 @@
+C:\wamp\www\sel\rabbitMQconsoleReceive\rabbitMQconsoleReceive\bin\Debug\rabbitMQconsoleReceive.exe.config
+C:\wamp\www\sel\rabbitMQconsoleReceive\rabbitMQconsoleReceive\bin\Debug\rabbitMQconsoleReceive.exe
+C:\wamp\www\sel\rabbitMQconsoleReceive\rabbitMQconsoleReceive\bin\Debug\rabbitMQconsoleReceive.pdb
+C:\wamp\www\sel\rabbitMQconsoleReceive\rabbitMQconsoleReceive\bin\Debug\RabbitMQ.Client.dll
+C:\wamp\www\sel\rabbitMQconsoleReceive\rabbitMQconsoleReceive\bin\Debug\RabbitMQ.Client.xml
+C:\wamp\www\sel\rabbitMQconsoleReceive\rabbitMQconsoleReceive\obj\Debug\rabbitMQconsoleReceive.csprojResolveAssemblyReference.cache
+C:\wamp\www\sel\rabbitMQconsoleReceive\rabbitMQconsoleReceive\obj\Debug\rabbitMQconsoleReceive.exe
+C:\wamp\www\sel\rabbitMQconsoleReceive\rabbitMQconsoleReceive\obj\Debug\rabbitMQconsoleReceive.pdb
+H:\,a ORW\oor labs\lab5\rabbitMQconsoleReceive\rabbitMQconsoleReceive\bin\Debug\rabbitMQconsoleReceive.exe.config
+H:\,a ORW\oor labs\lab5\rabbitMQconsoleReceive\rabbitMQconsoleReceive\obj\Debug\rabbitMQconsoleReceive.exe
+H:\,a ORW\oor labs\lab5\rabbitMQconsoleReceive\rabbitMQconsoleReceive\obj\Debug\rabbitMQconsoleReceive.pdb
+G:\,a ORW\oor labs\lab5\rabbitMQconsoleReceive\rabbitMQconsoleReceive\bin\Debug\rabbitMQconsoleReceive.exe.config
+G:\,a ORW\oor labs\lab5\rabbitMQconsoleReceive\rabbitMQconsoleReceive\obj\Debug\rabbitMQconsoleReceive.exe
+G:\,a ORW\oor labs\lab5\rabbitMQconsoleReceive\rabbitMQconsoleReceive\obj\Debug\rabbitMQconsoleReceive.pdb
+G:\,a ORW\oor labs\lab5\rabbitMQconsoleReceive\rabbitMQconsoleReceive\bin\Debug\rabbitMQconsoleReceive.exe
+G:\,a ORW\oor labs\lab5\rabbitMQconsoleReceive\rabbitMQconsoleReceive\bin\Debug\rabbitMQconsoleReceive.pdb
+G:\,a ORW\oor labs\lab5\rabbitMQconsoleReceive\rabbitMQconsoleReceive\bin\Debug\RabbitMQ.Client.dll
+G:\,a ORW\oor labs\lab5\rabbitMQconsoleReceive\rabbitMQconsoleReceive\bin\Debug\RabbitMQ.Client.xml
+G:\,a ORW\oor labs\lab5\rabbitMQconsoleReceive\rabbitMQconsoleReceive\obj\Debug\rabbitMQconsoleReceive.csprojResolveAssemblyReference.cache
+C:\Users\lenovozme\Desktop\,a ORW\oor labs\lab5\rabbitMQconsoleReceive\rabbitMQconsoleReceive\bin\Debug\rabbitMQconsoleReceive.exe.config
+C:\Users\lenovozme\Desktop\,a ORW\oor labs\lab5\rabbitMQconsoleReceive\rabbitMQconsoleReceive\obj\Debug\rabbitMQconsoleReceive.exe
+C:\Users\lenovozme\Desktop\,a ORW\oor labs\lab5\rabbitMQconsoleReceive\rabbitMQconsoleReceive\obj\Debug\rabbitMQconsoleReceive.pdb
